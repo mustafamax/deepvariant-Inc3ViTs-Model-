@@ -1,6 +1,6 @@
 # DeepVariant InceptionV3-LocalViT Keras Modeling
 
-This repository contains a standalone `deepvariant/keras_modeling.py` file with a modified InceptionV3 backbone for DeepVariant.
+This repository contains a standalone `keras_modeling.py` file with a modified InceptionV3 backbone for DeepVariant.
 
 ## Architecture change
 
